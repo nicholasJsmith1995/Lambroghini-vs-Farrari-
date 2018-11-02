@@ -1,0 +1,6 @@
+C:\Users\nicho\source\repos\car class\car class\bin\Debug\car class.dll
+C:\Users\nicho\source\repos\car class\car class\bin\Debug\car class.pdb
+C:\Users\nicho\source\repos\car class\car class\obj\Debug\car class.csprojAssemblyReference.cache
+C:\Users\nicho\source\repos\car class\car class\obj\Debug\car class.csproj.CoreCompileInputs.cache
+C:\Users\nicho\source\repos\car class\car class\obj\Debug\car class.dll
+C:\Users\nicho\source\repos\car class\car class\obj\Debug\car class.pdb
